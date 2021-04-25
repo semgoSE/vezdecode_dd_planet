@@ -1,8 +1,8 @@
-# Инструкция /n
-npm intsall\n
-npm start\n
-cd server/n
-node index.js/n
-/n
+# Инструкция <br />
+npm intsall<br />
+npm start<br />
+cd server<br />
+node index.js<br />
+<br />
 
 Для перехода испаользуйся ссылку c хешем #admin в ссылке 
